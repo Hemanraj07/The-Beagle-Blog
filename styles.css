@@ -1,0 +1,26 @@
+img{
+    height: 260px;
+    width: 450px;
+    left: 58px;
+    top: 874px;
+    border-radius: 0px;
+
+}
+a{
+    color: black;
+}
+.top-div {
+    border: 1px solid black;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: left;
+  width: 40%;
+  margin-left: 0px;
+  
+}
+h1{
+    margin-left: 5px;
+}
+p{
+    margin-left: 5px;
+}
